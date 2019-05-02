@@ -1,0 +1,14 @@
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\bin\Debug\Project_snake_game_vs2013.exe.config
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.Resources.resources
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.vbproj.GenerateResource.Cache
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\bin\Debug\Project_snake_game_vs2013.exe
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\bin\Debug\Project_snake_game_vs2013.pdb
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\bin\Debug\Project_snake_game_vs2013.xml
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.exe
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.xml
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.pdb
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.MainMenu.resources
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.HighscoreTable.resources
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.SnakeGame.resources
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.InputNameForm.resources
+F:\Backup Data Instal Ulang\Documents\Backup\Visual Studio Programs\Project_snake_game_vs2013\Project_snake_game_vs2013\obj\Debug\Project_snake_game_vs2013.CongratulationForm.resources
